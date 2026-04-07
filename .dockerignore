@@ -1,0 +1,10 @@
+# .dockerignore — Exclude unnecessary files from Docker build context
+*.md
+*.git
+.gitignore
+.env
+node_modules
+*.log
+*.sh
+tests/
+docs/
